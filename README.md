@@ -166,3 +166,8 @@ plt.figure(figsize = (20,10))
 show_selected_images(images, COLORS['BLUE'],60,5)
 ```
 ![image](https://user-images.githubusercontent.com/87477460/160435119-1f0ffba9-c40f-447a-af01-f26cf072871a.png)
+
+## References
+<ul>
+<li><a href="https://towardsdatascience.com/color-identification-in-images-machine-learning-application-b26e770c4c71">Karan Bhanot's article</a></li>
+</ul>
